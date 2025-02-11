@@ -22,6 +22,7 @@ O objetivo inicial é desenvolver uma plataforma de blog funcional com caracter�
 
 _Este projeto ainda está em estágio embrionário, e muitas modificações na estrutura e funcionalidades podem ocorrer ao longo do desenvolvimento_
 
-#Primeira versão do banco de dados:
- ![alt text](https://imgur.com/a/6C474HX "DB1")
+# Primeira versão do banco de dados:
+![esqueleto](https://github.com/user-attachments/assets/ea608de3-6f6e-4f9e-8a0b-66fad74ae4a0)
+
 
